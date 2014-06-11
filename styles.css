@@ -1,0 +1,34 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.request {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 1em;
+	width: 80%;
+}
+.request td {
+	font-size: 0.9em;
+	vertical-align: top;
+	padding:10px 5px;
+	border: 1px solid #ccc;
+}
+.request td:first-child {
+	font-weight: bold;
+	width: 15%;
+}
+.request .params td {
+	border:none;
+}
+.name {
+	font-size: 1.2em;
+}
+.description {
+	color:#999;
+	font-weight: normal;
+}
+pre {
+  white-space: pre-wrap; /*CSS 2.1*/
+ 
+  word-break: break-all;
+}

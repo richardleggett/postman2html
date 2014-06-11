@@ -1,0 +1,14 @@
+{
+  "name": "postman2html",
+  "version": "0.0.1",
+  "description": "Formats a Postman Collection to HTML for documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Leggett @richardleggett",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.2.0"
+  }
+}
